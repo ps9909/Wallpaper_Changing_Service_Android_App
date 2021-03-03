@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Wallpaper Changing Service App</string>
+    <string name="textView_Text">Please enter time after which you would like the Wallpaper to be changed.</string>
+    <string name="hint1">Hours</string>
+    <string name="hint2">Minutes</string>
+    <string name="hint3">Seconds</string>
+    <string name="button_text1">Click here to Start Wallpaper Changing Service</string>
+    <string name="button_text2">Click here to Stop Wallpaper Changing Service</string>
+</resources>
